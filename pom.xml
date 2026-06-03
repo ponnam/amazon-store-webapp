@@ -10,7 +10,7 @@
     <artifactId>amazon-store-webapp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Amazon Online Store - POC</name>
+    <name>Amazon Online Store</name>
 
     <dependencies>
         <dependency>

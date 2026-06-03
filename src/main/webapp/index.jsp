@@ -240,7 +240,7 @@
     </div>
     <div class="footer-bottom">
         <p class="logo-text-footer">amazon<span>.in</span></p>
-        <p>&copy; 2024, Amazon.com, Inc. or its affiliates — POC by <strong>Ponnam Phani Krishna</strong> | Teraskill Academy</p>
+        <p>&copy; 2024, Amazon.com, Inc. or its affiliates. All rights reserved.</p>
     </div>
 </footer>
 
